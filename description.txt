@@ -1,0 +1,60 @@
+group member
+Abigiya Alemayehu 862/13
+Eden Birhanu 882/13
+Lidiya Alemayehu 894/13
+
+Project Title: Haramaya University Student Online Registration System
+
+Description:
+
+The Haramaya University Student Online Registration System is a comprehensive web application designed to streamline and modernize the student registration process at Haramaya University. This project aims to provide an efficient and user-friendly platform for students to register online, reducing paperwork and enhancing accessibility.
+
+Key Features:
+
+User Authentication:
+
+Secure user authentication and authorization mechanisms to ensure that only registered students can access the system.
+User Registration:
+
+An intuitive registration process allowing students to create accounts by providing essential information such as username, email, and password.
+
+Dashboard:
+A personalized dashboard for each student upon successful login, displaying relevant information and providing easy navigation to essential features.
+Profile Management:
+
+Students can manage their profiles, update personal information, and view critical details such as email addresses associated with their accounts.
+
+Home Page:
+An engaging home page featuring the Haramaya University logo and welcoming students to the online registration portal. It includes clear calls-to-action for registration and login.
+
+Registration Form:
+An organized and user-friendly registration form for new students to input necessary details for enrollment.
+
+Login Page:
+A secure login page for existing students to access their accounts.
+Logout Functionality:
+
+A secure logout mechanism to ensure the protection of student accounts and information.
+Technologies Used:
+
+Frontend:
+HTML5, and CSS3 for responsive and interactive user interfaces.
+
+Backend:
+PHP for server-side scripting to handle user requests and interactions.
+
+Database:
+MySQL for storing and managing student information securely.
+
+Security Measures:
+Implementation of secure authentication practices, data validation, and protection against common web vulnerabilities.
+
+Purpose:
+The Haramaya University Online Student Registration System serves as a digital solution to enhance the efficiency of student enrollment processes. By providing an accessible and secure online platform, the project aims to reduce administrative workload, minimize errors in data entry, and offer students a convenient way to manage their registration-related activities.
+
+This project aligns with the university's commitment to embracing technology for the improvement of administrative procedures, fostering a more modern and student-centric educational environment.
+
+
+
+
+
